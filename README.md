@@ -1,6 +1,7 @@
 # Olá rede! 👋
 ### Felipe Damascena aqui,
-##### Sou do Rio de Janeiro, casado e atualmente em busca de uma oportunidade na área de desenvolvimento de sistemas como desenvolvedor Front-end ou Fullstack Web para minha transição de carreira. Não sei muito (ainda), mas o pouco que sei faço com qualidade e respeito e tento a cada dia ser a melhor versão de mim mesmo.
+##### Sou do Rio de Janeiro, casado e atualmente em busca de uma oportunidade na área de desenvolvimento de sistemas como desenvolvedor para minha transição de carreira. Evoluindo a cada dia e treinado para sempre ser a melhor versão de mim mesmo.
+
 ##### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá 2016.
 
 ###### 👨‍💻 Estudando:  
