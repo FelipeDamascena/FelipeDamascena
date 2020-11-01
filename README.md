@@ -1,13 +1,13 @@
 # Olá rede! 👋
 ### Felipe Damascena aqui,
-##### Sou do Rio de Janeiro, casado e atualmente em busca de uma oportunidade na área de desenvolvimento de sistemas como desenvolvedor para minha transição de carreira. Evoluindo a cada dia e treinado para sempre ser a melhor versão de mim mesmo.
+##### Sou do Rio de Janeiro, casado, estudando para me tornar um desenvolvedor de sistenas e fazer minha transição de carreira. Evoluindo a cada dia e treinado para ser a melhor versão de mim mesmo.
 
 ##### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá 2016.
 
 ###### 👨‍💻 Estudando:  
-###### Bootcamp JavaScript Game Developer - Digital Innovation One 
-###### Desenvolvimento Web Completo 2020 - Udemy
-###### NodeJS, ReactJS, React Native, Javascript - Starter - Rocketseat 
+###### Formação Java Web FullStack - jdevTreinamento
+###### Bootcamp Java Developer - Digital Innovation One
+###### Bootcamp Everys - Digital Innovation One
 
 ### Onde me encontrar
 
