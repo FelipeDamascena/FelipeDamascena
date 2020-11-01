@@ -1,6 +1,6 @@
 # Olá rede! 👋
 ### Felipe Damascena aqui,
-##### Sou do Rio de Janeiro, casado, estudando para me tornar um desenvolvedor de sistenas e fazer minha transição de carreira. Evoluindo a cada dia e treinado para ser a melhor versão de mim mesmo.
+##### Sou do Rio de Janeiro, casado, estudando para me tornar um desenvolvedor de sistemas. Evoluindo a cada dia e treinado para ser a melhor versão de mim mesmo.
 
 ##### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá 2016.
 
