@@ -1,7 +1,7 @@
 # Olá rede! 👋
 ### Felipe Damascena aqui,
 ##### Sou do Rio de Janeiro, estudando para ser o melhor desenvolvedor de sistemas do mundo. =D
-##### Praticar, fazer amizades, gerar conhecimentos e praticar mais um dia eu chego lá! 🚀🚀🚀   
+##### Praticar, fazer amizades, gerar conhecimentos e praticar mais, um dia eu chego lá! 🚀🚀🚀   
 
 ##### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá 2016.
 
