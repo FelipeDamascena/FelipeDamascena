@@ -13,10 +13,10 @@
 ##### Nodejs
 ##### Bootstrap
 
-###### 👨‍💻 Estudando:  
-###### Formação Java Web FullStack - jdevTreinamento
-###### Bootcamp Java Developer - Digital Innovation One
-###### Bootcamp Everys - Digital Innovation One
+#### 👨‍💻 Estudando:  
+##### Formação Java Web FullStack - jdevTreinamento
+##### Bootcamp Java Developer - Digital Innovation One
+##### Bootcamp Everys - Digital Innovation One
 
 ### Onde me encontrar
 
