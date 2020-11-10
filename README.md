@@ -6,6 +6,7 @@
 #### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá 2016.
 
 ##### Conhecimentos básicos:
+###### Java
 ###### Python
 ###### Javascript
 ###### CSS
