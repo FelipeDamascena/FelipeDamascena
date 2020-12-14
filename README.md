@@ -1,9 +1,9 @@
 # Olá rede! 👋
 ### Felipe Damascena aqui,
-##### Sou do Rio de Janeiro, estudando para ser o melhor desenvolvedor possível.
+##### Sou Felipe Damascena, sou do Rio de Janeiro, estudando desde Maio 2020 intensivamente para ser o melhor desenvolvedor possível.
 ##### Praticar, fazer amizades, gerar conhecimentos e praticar mais, um dia eu chego lá! 🚀🚀🚀   
 
-#### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá 2016.
+#### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
 
 ##### Conhecimentos básicos:
 ###### Java
