@@ -6,17 +6,17 @@
 #### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
 
 Conhecimentos básicos:
-####Java
-####spring boot
+#### Java
+#### spring boot
 
-#####Python
-#####Javascript
-#####CSS
-#####HTML
-#####Nodejs
-#####Bootstrap
-#####Angular
-#####postgres
+##### Python
+##### Javascript
+##### CSS
+##### HTML
+##### Nodejs
+##### Bootstrap
+##### Angular
+##### postgres
 
 
 #### 👨‍💻 Estudando:  
