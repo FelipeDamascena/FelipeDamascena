@@ -8,15 +8,16 @@ _________________
 Conhecimentos básicos:
 #### Java
 #### spring boot
-_________________
-##### Python
-##### Javascript
-##### CSS
-##### HTML
-##### Nodejs
-##### Bootstrap
-##### Angular
-##### Postgres
+
+
+###### Python
+###### Javascript
+###### CSS
+###### HTML
+###### Nodejs
+###### Bootstrap
+###### Angular
+###### Postgres
 _________________
 
 #### 👨‍💻 Estudando:  
