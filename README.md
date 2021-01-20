@@ -8,7 +8,7 @@
 Conhecimentos básicos:
 #### Java
 #### spring boot
-
+_________________
 ##### Python
 ##### Javascript
 ##### CSS
@@ -16,7 +16,7 @@ Conhecimentos básicos:
 ##### Nodejs
 ##### Bootstrap
 ##### Angular
-##### postgres
+##### Postgres
 
 
 #### 👨‍💻 Estudando:  
