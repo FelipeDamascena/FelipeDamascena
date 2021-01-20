@@ -5,14 +5,19 @@
 
 #### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
 
-##### Conhecimentos básicos:
-###### Java
-###### Python
-###### Javascript
-###### CSS
-###### HTML
-###### Nodejs
-###### Bootstrap
+Conhecimentos básicos:
+####Java
+####spring boot
+
+#####Python
+#####Javascript
+#####CSS
+#####HTML
+#####Nodejs
+#####Bootstrap
+#####Angular
+#####postgres
+
 
 #### 👨‍💻 Estudando:  
 ##### Formação Java Web FullStack - jdevTreinamento
