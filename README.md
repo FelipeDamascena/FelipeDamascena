@@ -22,8 +22,8 @@ _________________
 
 #### 👨‍💻 Estudando:  
 ##### Formação Java Web FullStack - jdevTreinamento
+##### Especialista Spring Rest - Algoworks
 ##### Bootcamp Java Developer - Digital Innovation One
-##### Bootcamp Everys(Java / Angular) - Digital Innovation One
 _________________
 ### Onde me encontrar
 
