@@ -1,15 +1,14 @@
 # Olá rede! 👋
-### Felipe Damascena aqui,
 ##### Sou Felipe Damascena, sou do Rio de Janeiro.
 ##### Praticar, fazer amizades, gerar conhecimentos e praticar mais, um dia eu chego lá! 🚀🚀🚀   
 
 #### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
 _________________
-Conhecimentos básicos:
+Foco atual:
 #### Java
 #### spring boot
 
-
+Tecnologias já estudadas:
 ###### Python
 ###### Javascript
 ###### CSS
@@ -23,7 +22,6 @@ _________________
 #### 👨‍💻 Estudando:  
 ##### Formação Java Web FullStack - jdevTreinamento
 ##### Especialista Spring Rest - Algoworks
-##### Bootcamp Java Developer - Digital Innovation One
 _________________
 ### Onde me encontrar
 
