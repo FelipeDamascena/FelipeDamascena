@@ -6,11 +6,11 @@
 _________________
 Conhecimentos:
 #### Java:
-## Básico - Orientação a objetos, Condições, Matriz, Arrays, Laços de Repetição, Herança e Encapsulamento, Exceptions
-## Avançado - Paradigma Funcional, Lambda, Função de Alta Ordem, Síncrono e Assíncrono, Streams, Collections, Java Modular
+##### Básico - Orientação a objetos, Condições, Matriz, Arrays, Laços de Repetição, Herança e Encapsulamento, Exceptions
+##### Avançado - Paradigma Funcional, Lambda, Função de Alta Ordem, Síncrono e Assíncrono, Streams, Collections, Java Modular
 
 #### spring boot:
-##  Spring e Injeção de Dependência (em curso...)
+#####  Spring e Injeção de Dependência (em curso...)
 
 #### Noções nas Tecnologias:
 ###### Python, Javascript, CSS, HTML, Nodejs, Bootstrap, Angular
