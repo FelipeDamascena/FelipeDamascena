@@ -4,24 +4,22 @@
 
 #### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
 _________________
-Foco atual:
-#### Java
-#### spring boot
+Conhecimentos:
+#### Java:
+## Básico - Orientação a objetos, Condições, Matriz, Arrays, Laços de Repetição, Herança e Encapsulamento, Exceptions
+## Avançado - Paradigma Funcional, Lambda, Função de Alta Ordem, Síncrono e Assíncrono, Streams, Collections, Java Modular
 
-Tecnologias já estudadas:
-###### Python
-###### Javascript
-###### CSS
-###### HTML
-###### Nodejs
-###### Bootstrap
-###### Angular
-###### Postgres
+#### spring boot:
+##  Spring e Injeção de Dependência (em curso...)
+
+#### Noções nas Tecnologias:
+###### Python, Javascript, CSS, HTML, Nodejs, Bootstrap, Angular
 _________________
 
 #### 👨‍💻 Estudando:  
 ##### Formação Java Web FullStack - jdevTreinamento
 ##### Especialista Spring Rest - Algoworks
+##### Bootcamp Inter Java Developer
 _________________
 ### Onde me encontrar
 
