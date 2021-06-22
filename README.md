@@ -19,7 +19,6 @@ _________________
 #### 👨‍💻 Estudando:  
 ##### Formação Java Web FullStack - jdevTreinamento
 ##### Especialista Spring Rest - Algoworks
-##### Bootcamp Inter Java Developer
 _________________
 ### Onde me encontrar
 
