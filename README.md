@@ -4,6 +4,8 @@
 
 #### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
 _________________
+Desenvolvedor back-end na stack Java
+
 Conhecimentos:
 #### Java:
 ##### Orientação a objetos, Condições, Matriz, Arrays, Laços de Repetição, Herança e Encapsulamento, Exceptions, Avançado - Paradigma Funcional, Lambda, Função de Alta Ordem, Síncrono e Assíncrono, Streams, Collections, Java Modular
