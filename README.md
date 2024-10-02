@@ -1,28 +1,33 @@
 # Olá rede! 👋
-##### Sou Felipe Damascena, sou do Rio de Janeiro.
+##### Sou Felipe Damascena.
 ##### Praticar, fazer amizades, gerar conhecimentos e praticar mais, um dia eu chego lá! 🚀🚀🚀   
 
-#### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas - Estácio de Sá em 2016.
+#### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 _________________
 Desenvolvedor back-end na stack Java
 
 Conhecimentos:
-#### Java:
-##### Orientação a objetos, Condições, Matriz, Arrays, Laços de Repetição, Herança e Encapsulamento, Exceptions, Avançado - Paradigma Funcional, Lambda, Função de Alta Ordem, Síncrono e Assíncrono, Streams, Collections, Java Modular
 
-#### spring boot:
-#####  Spring e Injeção de Dependência (em curso...)
+### Desenvolvimento Java/Spring Boot/Quarkus
+##### Design Patterns 
+##### Testes unitários
+##### Testes automatizados (Básico)
+##### Documentação do projeto, Mapeamento e Desenvolvimento de API´s
 
-#### Banco de dados:
-#####  PostgreSQL, MySQL e Oracle
+### Tecnologias utilizadas:
+##### Banco de dados Oracle, MySQL e PostgreSQL
+##### Redis, RabbitMQ, Kafka, Docker, Azure,
+##### GitLab, Jenkins, Sonar, Rancher, Keycloak, S3-AWS, DynamoDB-AWS
+
+### Metodologias Ágeis 
+##### Scrum e Kanban.
 
 #### Noções nas Tecnologias:
 ###### Python, Javascript, CSS, HTML, Bootstrap, Angular, Docker, Rabbitmq, Redis.
 _________________
 
 #### 👨‍💻 Estudando:  
-##### Formação Java Web FullStack - jdevTreinamento
-##### Especialista Spring Rest - Algoworks
+##### Alura - cursos variados
 _________________
 ### Onde me encontrar
 
